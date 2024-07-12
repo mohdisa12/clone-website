@@ -1,1 +1,2 @@
 # clone-website
+I replicated Cynthia Ugwu's website using HTML for structure, CSS for styling to match the original design, and JavaScript for interactive features. GSAP (GreenSock Animation Platform) was utilized to achieve fluid animations and transitions, closely mirroring the dynamic user experience of the original site. This project showcased my proficiency in front-end web technologies and animation libraries, highlighting attention to detail in design fidelity and interactive elements.
